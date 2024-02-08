@@ -1,94 +1,118 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "name": "Juan Castañar Petarcich",
+    "label": "Full Stack Developer | QA Automation",
+    "image": "./src/assets/perfil.jpg",
+    "email": "unmail@gmail.com",
+    "phone": "+54 688888888",
+    "url": "",
+    "summary": "Soy un profesional creativo y orientado a resultados con fuertes habilidades de trabajo en equipo, resolución de desafíos y en constante actualización tecnológica. Especializado en diseño de interfaces de usuario y familiarizado con metodologías ágiles como Scrum.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "5000",
+      "city": "Cordoba",
+      "countryCode": "AR",
+      "region": "Argentina"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "juanpetarcich",
+        "url": "https://linkedin.com/in/juanpetarcich"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "grincode",
+        "url": "https://github.com/Grincode"
+      },
+      {
+        "network": "Instagram",
+        "username": "juanpetarcich",
+        "url": "https://www.instagram.com/gringo.dev/"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
-      "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "name": "Fullstack web developer",
+      "position": "Freelance",
+      "url": "https://www.konecta-group.com/es/where-we-are",
+      "startDate": "2022",
+      "endDate": "Actualidad",
+      "summary": "Desarrollo frontend Angular y React JS, Backend con Java, diseño e implementacion de API Rest control de versiones Git trabajos colaborativos en marco Scrum ",
       "highlights": [
-        "Started the company"
+        ""
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "name": "Konecta",
+      "position": "Lider Sr de operaciones",
+      "url": "https://www.konecta-group.com/es/where-we-are",
+      "startDate": "2020",
+      "endDate": "Actualidad",
+      "summary": "Motivar el trabajo en equipo, comunicacion efectiva generando valor, calidad y mejora continua",
       "highlights": [
-        "Started the company"
+        "Cobertura de Jefe de servicio en vacaciones"
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "name": "Konecta",
+      "position": "Soporte Analista administrativo de base de datos",
+      "url": "https://www.konecta-group.com/es/where-we-are",
+      "startDate": "2017-06-01",
+      "endDate": "2020-09-01",
+      "summary": "Gestion de base de datos, soporte a usuarios, generacion de reportes, analisis de datos",
       "highlights": [
-        "Started the company"
+        ""
+      ]
+    },
+    {
+      "name": "Apex America",
+      "position": "Tech Support",
+      "startDate": "2007",
+      "endDate": "2010",
+      "summary": "Soporte técnico para clientes de pequeñas empresas y pymes en enlaces de fibra óptica y configuración de redes internas",
+      "highlights": [
+        ""
       ]
     }
   ],
   "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
+    "organization": "Konecta",
+    "position": "Voluntario",
+    "url": "https://www.konecta-group.com/es/where-we-are",
     "startDate": "2012-01-01",
     "endDate": "2013-01-01",
     "summary": "Description…",
     "highlights": [
-      "Awarded 'Volunteer of the Month'"
+      ""
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
+    "institution": "Institucion Cervantes",
+    "url": "https://www.cervantes.edu.ar/",
+    "area": "Analista de Sistemas",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
+    "startDate": "2022-01-03",
+    "endDate": "2025-01-12",
     "score": "4.0",
     "courses": [
-      "DB1101 - Basic SQL"
+      "HTML5 - Basic SQL - MySQL - .Net - Javascript"
+    ]
+  },
+  {
+    "institution": "Universidad Nacional del Sur",
+    "url": "https://www.uns.edu.ar/",
+    "area": "Ingenierio en Sistemas",
+    "studyType": "Bachelor",
+    "startDate": "2001-01-03",
+    "endDate": "2003-01-12",
+    "score": "4.0",
+    "courses": [
+      ""
     ]
   }],
+  
   "awards": [{
     "title": "Award",
     "date": "2014-11-01",
@@ -131,6 +155,20 @@
       ]
     },
     {
+      "name": "Java",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": ".Net",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Backend"
+      ]
+    },
+    {
       "name": "Tailwind",
       "level": "Avanzado",
       "keywords": [
@@ -145,7 +183,7 @@
       ]
     },
     {
-      "name": "Node",
+      "name": "NodeJS",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Backend", "JavaScript", "Servidor"
@@ -173,10 +211,10 @@
       ]
     },
     {
-      "name": "Next.js",
+      "name": "AngularJS",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Desarrollo Web", "Frontend"
       ]
     },
     {
@@ -184,6 +222,13 @@
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "DART",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo movil",  "UI"
       ]
     }
   ],
@@ -194,7 +239,7 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Advanced for developers"
     }
   ],
   "interests": [{
@@ -210,66 +255,59 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
-      "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "name": "-",
+      "isActive": false,
+      "description": "",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        ""
       ],
-      "url": "https://mars.codes"
+      "url": ""
     },
     {
-      "name": "AdventJS",
+      "name": "-",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        ""
       ],
-      "url": "https://advent.js/dev"
+      "url": ""
     },
     {
-      "name": "Codember",
+      "name": "",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        ""
       ],
-      "url": "https://codember.dev"
+      "url": ""
     },
     {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "name": "",
+      "isActive": false,
+      "description": "",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
+        ""
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "url": "",
+      "github": ""
     },
     {
-      "name": "Pruebas Técnicas",
+      "name": "",
       "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "description": "",
       "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
+        ""
       ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
+      "url": "",
+      "github": ""
     },
     {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
+      "name": "",
+      "description": "",
       "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
+        ""
       ],
-      "url": "https://miduconf.com"
+      "url": ""
     }
   ]
 }

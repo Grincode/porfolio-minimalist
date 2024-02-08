@@ -4,7 +4,7 @@ import Section from "../Section.astro";
 import { skills } from "@cv";
 ---
 
-<Section title="Habilidades">
+<Section title="Técnologias">
   <ul>
     {
       skills.map(({ name }) => (
@@ -14,21 +14,59 @@ import { skills } from "@cv";
       ))
     }
   </ul>
+  <footer class="no-print">
+    <div class="container">
+      <input type="button" value="Imprimir" class="printbutton" />
+    </div>
+  </footer>
+  <style>
+    .container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100%;
+      padding-top: 50px;
+    }
+    ul {
+      display: inline-flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    li {
+      border-radius: 6px;
+      background: #eee;
+      color: black;
+      font-size: 0.8rem;
+      font-weight: 500;
+      padding: 0.2rem 0.6rem;
+    }
+
+    .printbutton {
+      padding: 2rem 0;
+      background-color: #ccc;
+      color: black;
+      border: none;
+      border-radius: 6px;
+      padding: 8px 16px;
+      cursor: pointer;
+    }
+
+    .printbutton:hover {
+      background-color: #21242a;
+      color: #ccc;
+    }
+
+    .printbutton:focus {
+      outline: none;
+    }
+  </style>
+
+  <script>
+    document.querySelectorAll(".printbutton").forEach(function (element) {
+      element.addEventListener("click", function () {
+        print();
+      });
+    });
+  </script>
 </Section>
-
-<style>
-  ul {
-    display: inline-flex;
-    gap: 8px;
-    flex-wrap: wrap;
-  }
-
-  li {
-    border-radius: 6px;
-    background: #eee;
-    color: black;
-    font-size: 0.8rem;
-    font-weight: 500;
-    padding: 0.2rem 0.6rem;
-  }
-</style>
