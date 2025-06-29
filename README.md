@@ -21,14 +21,13 @@ src/
 ## ⚙️ Instalación y uso
 
 1. Clona el repositorio:
-
-   ```bash
-   git clone https://github.com/tu-usuario/porfolio-minimalist.git
-   cd porfolio-minimalist
-
+```bash
+git clone https://github.com/tu-usuario/porfolio-minimalist.git
+cd porfolio-minimalist
+```
 2. Instala las dependencias:
-  ```bash
-  npm install
+```bash
+npm install
 ```
 
 3. Levanta el servidor de desarrollo:
@@ -49,4 +48,3 @@ Cambia la paleta de colores y tipografías en el archivo CSS global o estilos po
 Schema de JSON para CV:
 https://jsonresume.org/schema/
 
-[![wakatime](https://wakatime.com/badge/github/Grincode/porfolio-minimalist.svg)](https://wakatime.com/badge/github/Grincode/porfolio-minimalist)
