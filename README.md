@@ -34,7 +34,10 @@ npm install
 ``` bash
 npm run dev
 ```
-4.Abre tu navegador en http://localhost:4321
+
+4. Abre tu navegador en http://localhost:4321
+
+
 
 
 🛠 Personalización
